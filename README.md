@@ -11,4 +11,10 @@ How it works:
 
 Sources:
     Dataset: https://www.kaggle.com/jef1056/anime-subtitles,
-    Original-Project: https://github.com/Naatchi/Napi,
+    
+    Original-Project: https://www.kaggle.com/code/bunnyhopper/anime-chatbot,
+        note: This project was the original foundations of the machine learning code in this project and thus  there is probably still code from here so im just being safe.
+
+    Discord Parts: https://github.com/JEF1056/JadeAI/blob/master/jv5.py
+        note: this is what i originally based the discord and web bot designs off of and it would be very
+            not nice to not credit them.
