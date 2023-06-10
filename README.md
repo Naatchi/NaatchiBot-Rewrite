@@ -1,3 +1,10 @@
+# AS OF 6/10/23 THIS REPOSITORY IS NOT MAINTAINED
+
+this project is relatively old in AI standards and I have other endevords I am looking towards making it difficult to work on this.
+an updated version of this project will be released in the future utilizing tensorflow for quicker predictions and a website for interfacing.
+
+---
+
 Mission Statement:
     so basically i had this old ai i made back in highschool and i want to incorperate it into a next.js/react website. im starting from scratch because my old code is bad and i think i can do better like 4 years later lol.
 
@@ -13,8 +20,9 @@ Sources:
     Dataset: https://www.kaggle.com/jef1056/anime-subtitles,
     
     Original-Project: https://www.kaggle.com/code/bunnyhopper/anime-chatbot,
-        note: This project was the original foundations of the machine learning code in this project and thus  there is probably still code from here so im just being safe.
+        note: This project was the original foundations of the machine learning code in this project and thus
+        there is probably still code from here so im just being safe.
 
     Discord Parts: https://github.com/JEF1056/JadeAI/blob/master/jv5.py
         note: this is what i originally based the discord and web bot designs off of and it would be very
-            not nice to not credit them.
+              not nice to not credit them.
