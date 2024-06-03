@@ -1,4 +1,4 @@
-# AS OF 6/10/23 THIS REPOSITORY IS NOT MAINTAINED
+# AS OF RIGHT NOW THIS PROJECT IS STARTING TO BE MAINTAINED
 
 this project is relatively old in AI standards and I have other endevords I am looking towards making it difficult to work on this.
 an updated version of this project will be released in the future utilizing tensorflow for quicker predictions and a website for interfacing.
